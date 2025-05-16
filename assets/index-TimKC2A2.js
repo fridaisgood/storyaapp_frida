@@ -129,7 +129,7 @@
     `),e.innerHTML=t?`
       ${n}
       <a href="#/">Beranda</a>
-      <a href="#/bookmark">Bookmark</a>
+      <a href="#/bookmark">📚 Bookmark</a>
       <a href="#/tambah">Tambah Cerita</a>
       <a href="#" id="logout-link">Logout</a>
     `:`
